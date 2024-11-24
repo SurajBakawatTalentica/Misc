@@ -1,0 +1,33 @@
+{
+  "SDKs": [
+    {
+      "name": "Admob",
+      "version": "1.0.0",
+      "type": "Standard",
+      "description": "A mobile ad SDK for banner, interstitial, and rewarded ads.",
+      "url": "",
+      "compatible": ""
+    },
+    {
+      "name": "AdInMo",
+      "version": "1.0.0",
+      "type": "Intrinsic",
+      "description": "An in-game advertising platform focusing on seamless ad integration.",
+      "url": "",
+      "compatible": ""
+    },
+    {
+      "name": "Adverty",
+      "version": "1.0.0",
+      "type": "Intrinsic",
+      "description": "Provides AR and VR compatible ad solutions.",
+      "url": "",
+      "compatible": ""
+    }
+  ],
+  "meta": {
+    "generatedDate": "2024-11-20T00:00:00Z",
+    "source": "UserInput",
+    "author": "Your Name"
+  }
+}
